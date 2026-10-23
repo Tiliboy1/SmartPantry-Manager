@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#1A120B</color>
+    <color name="surface">#2A1D12</color>
+    <color name="ink">#FBEBDD</color>
+    <color name="muted">#C9AD93</color>
+    <color name="outline">#45311F</color>
+
+    <color name="orange">#FF8A1F</color>
+    <color name="orange_dark">#C24E00</color>
+    <color name="orange_soft">#4A2D12</color>
+    <color name="green">#2FA04C</color>
+    <color name="green_dark">#8FE3A3</color>
+    <color name="green_soft">#1C3A24</color>
+
+    <color name="chip_ok_bg">#1F4A2A</color>
+    <color name="chip_ok_fg">#9BEFB1</color>
+    <color name="chip_warn_bg">#4F3A12</color>
+    <color name="chip_warn_fg">#FFD58A</color>
+    <color name="chip_bad_bg">#5A2420</color>
+    <color name="chip_bad_fg">#FFB4AB</color>
+    <color name="chip_plain_bg">#3B2A1B</color>
+    <color name="chip_plain_fg">#E8CDB3</color>
+</resources>
