@@ -53,4 +53,5 @@ git clone <your-repo-url>
 
 ## Author
 
+**Natilio Moerat**
 Mobile App Development 700 – Practical Assignment
