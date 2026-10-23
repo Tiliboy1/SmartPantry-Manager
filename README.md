@@ -41,7 +41,7 @@ A recipe is only suggested if **every single ingredient** it requires is present
 4. Run on an emulator or physical device (API 24+)
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Tiliboy1/SmartPantry-Manager.git
 ```
 
 ## Tech Stack
